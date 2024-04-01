@@ -161,12 +161,13 @@ width:100%;
 list-style:none;
 padding:1em;
 margin-left:0;
+  border:1px solid red;
 }
 
 .cont-Conocimientos img{
 height:50px;
 object-fit:cover;
-  max-with:20px;
+  with:20px;
 }
 
 .cont-Conocimientos ul li p{

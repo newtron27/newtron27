@@ -105,7 +105,7 @@ transition:0.5s;
 
 .hero-img{
 background:url("./cafe.jpg")no-repeat;
-padding:0;
+
 background-origin:content-box; 
 background-position:50%;
 background-size:cover;
@@ -163,8 +163,9 @@ margin-left:0;
 }
 
 .cont-Conocimientos img{
-height:200px;
+height:50px;
 object-fit:cover;
+  max-with:20px
 }
 
 .cont-Conocimientos ul li p{

@@ -140,6 +140,7 @@ main{
   margin-top:4em;
   
 display:flex;
+  flex-wrap:wrap;
 }
 
 .cont-Conocimientos{

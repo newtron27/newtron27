@@ -145,7 +145,7 @@ display:flex;
 
 .cont-Conocimientos{
 
-width:60%;
+
 
 padding-left:0;
 }
@@ -167,7 +167,7 @@ margin-left:0;
 .cont-Conocimientos img{
 height:50px;
 object-fit:cover;
-  with:20px;
+  with:100%;
 }
 
 .cont-Conocimientos ul li p{

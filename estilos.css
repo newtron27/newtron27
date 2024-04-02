@@ -159,8 +159,8 @@ padding-top:1em ;
 .cont-Conocimientos ul li{
 width:100%;
 list-style:none;
-padding:1em;
-margin-left:0;
+
+margin:auto;
   border:1px solid red;
 }
 

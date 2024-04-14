@@ -519,6 +519,7 @@ line-height:auto;
 }
 .btnform{
 width:400px;
+min-width: 300px;
 /* min-width:150px; */
 background-color:white;
 color:black;

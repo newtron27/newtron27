@@ -472,7 +472,7 @@ border-radius:0;
 text-align:center;
 justify-content:center;
 align-items: center;
-padding:3em;
+padding:2em;
 color:white;
 background-color: rgb(23, 22, 22);
 margin-top:10em;
@@ -489,7 +489,7 @@ font-size:1.3em;
 }
 .formulario{
 background-color:   white;
-min-width:500px;
+min-width:400px;
 max-width:400px;
 /* border: 1px solid; */
 box-sizing:border-box;

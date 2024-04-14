@@ -490,10 +490,10 @@ font-size:1.3em;
 .formulario{
 background-color:   white;
 min-width:500px;
-max-width:800px;
+max-width:400px;
 /* border: 1px solid; */
 box-sizing:border-box;
-margin: auto;
+margin:auto;
 padding:2em;
 /* background-color: rgba(0, 0, 0, 0.918); */
 

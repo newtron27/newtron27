@@ -561,3 +561,6 @@ background-color:rgb(42, 11, 72);
 cursor:pointer;
     transition: 3s;
 }
+section{
+    border: 1px solid red;
+}

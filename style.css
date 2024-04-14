@@ -22,9 +22,6 @@ header {
 
  background-image:url('36340047313_1b44ffd25f_b.jpg') ;  
 background-color:blue;
- /* background-image:url('./imagenes/image0_0.jpg');  */
-
-
   background-attachment: fixed;
   background-position:0;
   background-repeat: no-repeat;
@@ -140,7 +137,7 @@ margin-left: 1em;
 
 
 .info {
-    width:70%;
+    width:100%;
     margin:7em  ;
     /* line-height:6em; */
     border-radius: 0.8em;

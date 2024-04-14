@@ -467,6 +467,7 @@ width:50%;
 /* formulario */
 
 .sectionForm{
+    width: 100%;
 border-radius:0;
 text-align:center;
 justify-content:center;
@@ -488,7 +489,7 @@ font-size:1.3em;
 }
 .formulario{
 
-/* min-width:400px; */
+min-width:400px;
 max-width:800px;
 /* border: 1px solid; */
 box-sizing:border-box;

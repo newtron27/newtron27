@@ -46,7 +46,7 @@ position: fixed;
 top: 0;
 right: 0;
 left: 0;
- background-color: rgb(3, 3, 3); 
+ /* background-color: rgb(3, 3, 3);  */
  z-index: 100;
  padding: 0.6EM;
  /* box-shadow:0 0 1em rgb(232, 228, 228); */

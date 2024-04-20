@@ -21,7 +21,7 @@ font-family: 'Crimson Pro';
 header {
 width:100%;
     /* background-image:url('36340047313_1b44ffd25f_b.jpg') ;   */
-
+    
   background-attachment: fixed;
   background-position:0;
   background-repeat: no-repeat;
@@ -457,7 +457,7 @@ width:50%;
 
 
 .cajaBtn {
-    width: 100%;
+ width: 100%;
 
 }
 
@@ -467,7 +467,7 @@ width:50%;
 /* formulario */
 
 .sectionForm{
-    width: 98%;
+ width: 98%;
 border-radius:0;
 text-align:center;
 justify-content:center;
@@ -490,7 +490,7 @@ font-size:1.3em;
 .formulario{
 /* background-color:   white; */
 /* min-width:400px; */
-max-width:400px;
+max-width:100%;
 /* border: 1px solid; */
 box-sizing:border-box;
 margin:auto;

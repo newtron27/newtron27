@@ -10,7 +10,7 @@ html {
 }
 
 body {
-background-color: rgb(28, 27, 27);
+/* background-color: rgb(28, 27, 27); */
 /* color: white; */
 /* background-color:rgba(8, 49, 131, 0.856); */
 /* font-family:  UI', Tahoma, Geneva, Verdana, sans-serif'Segoe; */
@@ -19,11 +19,17 @@ font-family: 'Crimson Pro';
 
 
 header {
-width:100%;
-    /* background-image:url('36340047313_1b44ffd25f_b.jpg') ;   */
-    
+
+ background-image: url('./imagenes/36340047313_1b44ffd25f_b.jpg') ;  
+
+ /* background-image:url('./imagenes/image0_0.jpg');  */
+ background-color: rgba(105, 12, 12, 0.451);
+
+ /* background-origin:padding-box; */
+ background-color: rgb(14, 104, 134);
+ background-color: rgb(154, 74, 34);
   background-attachment: fixed;
-  background-position:0;
+  background-position:;
   background-repeat: no-repeat;
  /* background-clip: border-box; */
  background-size: cover;
@@ -46,7 +52,7 @@ position: fixed;
 top: 0;
 right: 0;
 left: 0;
- /* background-color: rgb(3, 3, 3);  */
+ background-color: rgb(3, 3, 3); 
  z-index: 100;
  padding: 0.6EM;
  /* box-shadow:0 0 1em rgb(232, 228, 228); */
@@ -56,7 +62,7 @@ left: 0;
 display: flex;
 align-content: center;
 align-items: center;
-/* justify-content: space-around; */
+justify-content: space-around;
 }
 
 .flex {
@@ -137,7 +143,7 @@ margin-left: 1em;
 
 
 .info {
-    width:100%;
+    width:70%;
     margin:7em  ;
     /* line-height:6em; */
     border-radius: 0.8em;
@@ -457,7 +463,7 @@ width:50%;
 
 
 .cajaBtn {
- width: 100%;
+    width: 100%;
 
 }
 
@@ -467,12 +473,11 @@ width:50%;
 /* formulario */
 
 .sectionForm{
- width: 98%;
 border-radius:0;
 text-align:center;
 justify-content:center;
 align-items: center;
-padding:0.5em;
+padding:5em;
 color:white;
 background-color: rgb(23, 22, 22);
 margin-top:10em;
@@ -488,13 +493,12 @@ margin-bottom:0.7em;
 font-size:1.3em;
 }
 .formulario{
-/* background-color:   white; */
-/* min-width:400px; */
-max-width:400px;
+min-width:400px;
+max-width:800px;
 /* border: 1px solid; */
 box-sizing:border-box;
-margin:auto;
-/* padding:2em; */
+margin: auto;
+padding:3em;
 /* background-color: rgba(0, 0, 0, 0.918); */
 
 }
@@ -503,7 +507,7 @@ margin:auto;
 
 width:100%;
 margin-top:0.9em;
-padding:0.8em;
+padding:1.4em;
 background-color:transparent;
 border:0.2em solid rgba(108, 105, 105, 0.566);
 /* border:0.2em solid rgba(54, 51, 51, 0.566); */
@@ -519,7 +523,6 @@ line-height:auto;
 }
 .btnform{
 width:400px;
-min-width: 200px;
 /* min-width:150px; */
 background-color:white;
 color:black;

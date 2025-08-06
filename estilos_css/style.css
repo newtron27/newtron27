@@ -20,7 +20,7 @@ font-family: 'Crimson Pro';
 
 header {
 
- background-image: url('/imagenes/36340047313_1b44ffd25f_b.jpg') ;  
+ background-image: url('./imagenes/36340047313_1b44ffd25f_b.jpg') ;  
 
  /* background-image:url('./imagenes/image0_0.jpg');  */
  background-color: rgba(105, 12, 12, 0.451);
